@@ -1,17 +1,9 @@
 // -----------------------------------------------------
 // Assignment 4
 // Question: 1
-// Written by:  Tongxia Zhang id:40192534 and Liuxinyi Sun id:40187025
+// Written by:  Tongxia Zhang and Liuxinyi Sun
 // -----------------------------------------------------
-/**
- * 
- * @author Tongxia Zhang, Liuxinyi Sun
- * id: 40192534
- * Assignment #4
- * Due Date 2022.4.15
- *
- */
-/**
+/*
  * The purpose of this program is to read an input text and then generate a sub dictionary.
  * Numbers, symbols, abbreviation and single letters (except A and I) are removed.
  * The words will be capital and stored in alphabetical order.
